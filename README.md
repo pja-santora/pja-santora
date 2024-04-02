@@ -4,11 +4,15 @@ I'm Paul Santora,
 A game designer and programmer.
 
 Check out my development portfolio: https://www.paulsantora.com
+
 I'm currently working on the game Holo & Veil.
+
   Website: https://www.holoandveil.com
+  
   Open Playtest on Steam: https://www.holoandveil.com/wishlist
 
 You can reach me by email: pjasantora@gmail.com
+
 Or go to my LinkedIn: https://www.linkedin.com/in/paul-santora
 
 <!--
