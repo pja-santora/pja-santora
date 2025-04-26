@@ -1,14 +1,19 @@
 ### Hello 👋
 <br />
 
-I'm Paul Santora, a game developer.
+I'm Paul Santora, a game designer. I do some programming as well.
 
 
 > View my development portfolio here: https://www.paulsantora.com
 <br />
 
-I'm currently working on Holo & Veil, a metroidvania RPG created in Unity.
-> Open Playtest on Steam: https://www.holoandveil.com/wishlist <br />
+I'm currently working on A Simple Ball Game, a 3D precision patformer all about physics, creativity, and experimentation.
+> Steam Page: https://store.steampowered.com/app/3281330/A_Simple_Ball_Game <br />
+> Website: https://www.asimpleballgame.com
+<br />
+
+My previous game is called Holo & Veil, a 2D Metroidvania with some RPG elements mixed in.
+> Steam Page: https://store.steampowered.com/app/2247830/Holo__Veil <br />
 > Website: https://www.holoandveil.com
 <br />
 
