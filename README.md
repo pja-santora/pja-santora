@@ -1,7 +1,7 @@
 ### Hello 👋
 <br />
 
-I'm Paul Santora, a game designer. I do some programming as well.
+I'm Paul Santora, a gameplay programmer.
 
 
 > View my development portfolio here: https://www.paulsantora.com
